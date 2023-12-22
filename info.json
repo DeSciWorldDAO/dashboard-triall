@@ -1,1 +1,32 @@
+{"name":"Triall",
+"tokenSymbol":"TRL ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Triall offers innovative software for clinical trials. Since 2018, Triall has been spearheading the implementation of decentralised & privacy-enhancing technologies in clinical research, working together with expert organisations such as Mayo Clinic and innovating on top of a platform that has been used in over 8,000 clinical trials worldwide. Powered by its utility token TRL, Triall is gradually building towards the Clinical Insights Exchange (CIX), a federated data ecosystem that offers a platform for advanced analytics and AI.",
+"whitePaperLink":"https://assets-global.website-files.com/63319a2d0a41c733a9d60da7/63e3cd5943813b4d24a35cb7_Triall-Whitepaper-v2.1.3-August2021.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/g6vh9U5.jpg",
+       "source": "image",
+       "link": "https://dutchblockchaincoalition.org/en/news/triall-ontwikkelt-een-gefedereerde-marktplaats-voor-klinische-onderzoeksdata-2"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/npw5gvh.jpg",        "source": "image",
+       "link": " https://cointelegraph.com/news/mayo-clinic-taps-into-blockchain-technology-for-clinical-trial-design"  }
+],
+"deleted":false,
+"primaryColor":"#63efe5",
+"twitterHandle":"https://twitter.com/triallofficial",
+"coingeckoId":"triall",
+"snapshotId":"",
+"logo":"https://i.imgur.com/SMG4zlz.png",
+"telegramLink":"https://t.me/triallcommunity",
+"discordLink":"",
+"website":"https://www.triall.io/trl",
+"tokenDescription":"For patients and investigator communities. Promoting clinical trial recruitment, retention, and engagement—major issues in the current clinical trial environment.",
+"tokenTradeLink":"https://www.mexc.com/exchange/TRL_USDT",
+"tags":["Ecosystems", "Focused Research"]
+  
+}
 
